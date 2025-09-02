@@ -86,6 +86,8 @@ Connect to the Access Database using VBA ADODB connection.
 
 Start managing your inventory
 
+Press F5 to open the USERFROM 
+
 
 
 **Future Improvements**
